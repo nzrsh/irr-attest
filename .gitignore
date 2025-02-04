@@ -1,0 +1,7 @@
+logs/*
+*.png
+*.exe
+db/schools.db
+server2
+Ответы/*
+.vscode
